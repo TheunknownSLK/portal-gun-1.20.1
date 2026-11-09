@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "portalgunclassic:item/pg_blue"
+  },
+  "overrides": [
+    { "predicate": { "portalgunclassic:orange": 1 }, "model": "portalgunclassic:item/pg_orange" }
+  ]
+}

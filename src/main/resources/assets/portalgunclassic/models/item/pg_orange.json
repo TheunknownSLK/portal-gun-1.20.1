@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "portalgunclassic:item/pg_orange"
+  }
+}
